@@ -1,0 +1,4 @@
+base=int(input("base= "))
+altura=int(input("altura= "))
+area=base*altura
+print(area,"area")
